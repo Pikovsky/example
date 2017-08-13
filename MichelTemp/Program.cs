@@ -28,7 +28,7 @@ namespace MichelTemp
 
             Console.WriteLine(new string('-', 33));
 
-            Console.WriteLine("char sizeof {0}, SizeOf {1}", sizeof(char), Marshal.SizeOf(typeof(char)));
+            Console.WriteLine("char sizeof {0}, Marshal.SizeOf {1}", sizeof(char), Marshal.SizeOf(typeof(char)));
 
             Console.WriteLine(new string('-', 33));
 
