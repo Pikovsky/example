@@ -4,3 +4,9 @@ D:\MyDoc\visual_studio_2013\!My\!temp\MichelTemp\MichelTemp\bin\Debug\MichelTemp
 D:\MyDoc\visual_studio_2013\!My\!temp\MichelTemp\MichelTemp\obj\Debug\MichelTemp.csprojResolveAssemblyReference.cache
 D:\MyDoc\visual_studio_2013\!My\!temp\MichelTemp\MichelTemp\obj\Debug\MichelTemp.exe
 D:\MyDoc\visual_studio_2013\!My\!temp\MichelTemp\MichelTemp\obj\Debug\MichelTemp.pdb
+D:\MyDoc\visual_studio_2013\MichelTemp\MichelTemp\bin\Debug\MichelTemp.exe.config
+D:\MyDoc\visual_studio_2013\MichelTemp\MichelTemp\obj\Debug\MichelTemp.exe
+D:\MyDoc\visual_studio_2013\MichelTemp\MichelTemp\obj\Debug\MichelTemp.pdb
+D:\MyDoc\visual_studio_2013\MichelTemp\MichelTemp\bin\Debug\MichelTemp.exe
+D:\MyDoc\visual_studio_2013\MichelTemp\MichelTemp\bin\Debug\MichelTemp.pdb
+D:\MyDoc\visual_studio_2013\MichelTemp\MichelTemp\obj\Debug\MichelTemp.csprojResolveAssemblyReference.cache

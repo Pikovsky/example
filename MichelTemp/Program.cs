@@ -38,6 +38,8 @@ namespace MichelTemp
             for (int val = 0; val <= 16; val++)
                 Console.WriteLine("{0,3} - {1:G}", val, (MultiHue)val);
 
+            Console.WriteLine("Я добавил эту строку, что бы просто изменить проект для изучения Git.");
+
             Console.ReadKey();
 
 
